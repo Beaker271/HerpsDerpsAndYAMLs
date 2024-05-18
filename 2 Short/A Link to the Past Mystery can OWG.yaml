@@ -131,9 +131,9 @@ A Link to the Past:
     # Overworld Glitches: Assumes the player has knowledge of both overworld major glitches (boots clips, mirror clips) and minor glitches
     # Hybrid Major Glitches: In addition to overworld glitches, also requires underworld clips between dungeons.
     # No Logic: Your own items are placed with no regard to any logic; such as your Fire Rod can be on your Trinexx.
-    no_glitches: 1
+    no_glitches: 9
     minor_glitches: 0
-    overworld_glitches: 0
+    overworld_glitches: 1
     hybrid_major_glitches: 0
     no_logic: 0
 
@@ -344,7 +344,7 @@ A Link to the Past:
     # How item types that have multiple tiers (armor, bows, gloves, shields, and swords) should be rewarded
     off: 1
     grouped_random: 3
-    on: 16
+    on: 26
 
   swordless:
     # No swords. Curtains in Skull Woods and Agahnim's
