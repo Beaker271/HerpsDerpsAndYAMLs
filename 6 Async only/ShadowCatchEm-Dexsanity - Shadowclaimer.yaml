@@ -528,7 +528,7 @@ Pokemon Emerald:
     # You can define additional values between the minimum and maximum values.
     # Minimum value is 0
     # Maximum value is 1000
-    200: 50
+    400: 50
     random: 0
     random-low: 0
     random-high: 0
