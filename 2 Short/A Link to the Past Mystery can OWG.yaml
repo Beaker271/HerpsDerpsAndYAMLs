@@ -688,8 +688,8 @@ A Link to the Past:
 
   menuspeed:
     # How quickly the menu appears/disappears
-    normal: 0
-    instant: 50
+    normal: 50
+    instant: 0
     double: 0
     triple: 0
     quadruple: 0
