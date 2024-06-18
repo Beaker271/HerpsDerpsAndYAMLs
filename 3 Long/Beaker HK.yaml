@@ -242,8 +242,8 @@ Hollow Knight:
 
   RandomizeNail:
     # Removes the ability to swing the nail left, right and up, and shuffles these into the item pool.
-    false: 50
-    true: 0
+    false: 0
+    true: 50
 
   RandomizeGeoRocks:
     # Randomize Geo Rock rewards into the item pool and open their locations for randomization.
