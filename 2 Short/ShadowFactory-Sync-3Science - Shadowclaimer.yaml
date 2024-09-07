@@ -121,10 +121,10 @@ Factorio:
     large_diamonds: 0
     small_pyramids: 0
     medium_pyramids: 0
-    large_pyramids: 0
+    large_pyramids: 50
     small_funnels: 0
     medium_funnels: 0
-    large_funnels: 50
+    large_funnels: 0
     trees: 0
     choices: 0
 
