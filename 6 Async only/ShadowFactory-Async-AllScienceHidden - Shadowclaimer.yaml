@@ -121,11 +121,11 @@ Factorio:
     large_diamonds: 0
     small_pyramids: 0
     medium_pyramids: 0
-    large_pyramids: 0
+    large_pyramids: 50
     small_funnels: 0
     medium_funnels: 0
     large_funnels: 0
-    trees: 50
+    trees: 0
     choices: 0
 
   min_tech_cost:
@@ -301,10 +301,10 @@ Factorio:
         richness: 6
         size: 3
     cliff_settings:
-      cliff_elevation_0: 1
-      cliff_elevation_interval: 1
+      cliff_elevation_0: 0
+      cliff_elevation_interval: 0
       name: cliff
-      richness: 1
+      richness: 0
     enemy_evolution:
       destroy_factor: 0.002
       enabled: false
