@@ -186,8 +186,8 @@ Pokemon Emerald:
     # Diverse Balanced: Item pool consists of random items approximately proportioned
     # according to what they're replacing (i.e. more pokeballs, fewer X items, etc.)
     # Diverse: Item pool consists of uniformly random (non-unique) items
-    shuffled: 0
-    diverse_balanced: 50
+    shuffled: 50
+    diverse_balanced: 0
     diverse: 0
 
   require_itemfinder:
