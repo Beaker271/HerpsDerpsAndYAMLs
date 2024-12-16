@@ -507,8 +507,8 @@ Pokemon Emerald:
 
   guaranteed_catch:
     # Every throw is guaranteed to catch a wild pokemon
-    false: 50
-    true: 0
+    false: 0
+    true: 100
 
   normalize_encounter_rates:
     # Make every slot on an encounter table approximately equally likely.
@@ -528,7 +528,7 @@ Pokemon Emerald:
     # You can define additional values between the minimum and maximum values.
     # Minimum value is 0
     # Maximum value is 1000
-    400: 50
+    1000: 50
     random: 0
     random-low: 0
     random-high: 0
